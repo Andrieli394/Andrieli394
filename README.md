@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Projetos Destacados
-- [Automação Cypress](/Cypress)  
+- [Automação Cypress](https://github.com/Andrieli394/Cypress)  
 - [Testes de API - Postman](/API)  
 - [Documentação de Casos de Teste](/Casos-de-testes)  
 
