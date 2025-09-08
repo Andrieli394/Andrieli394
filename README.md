@@ -18,8 +18,8 @@
 
 ## 📌 Projetos Destacados
 - [Automação Cypress](https://github.com/Andrieli394/Cypress)  
-- [Testes de API - Postman](/API)  
-- [Documentação de Casos de Teste](/Casos-de-testes)  
+- [Testes de API - Postman](https://github.com/Andrieli394/API)  
+- [Documentação de Casos de Teste](https://github.com/Andrieli394/Casos-de-testes)  
 
 ---
 
