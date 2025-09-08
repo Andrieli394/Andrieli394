@@ -1,5 +1,3 @@
-# Andrieli394-Andrieli394
-
 # Olá, eu sou a Andrieli 👋
 
 🎯 Analista de Qualidade de Software com experiência em **testes manuais e automatizados**  
@@ -31,5 +29,5 @@
 ---
 
 ## 📫 Onde me encontrar
-[LinkedIn](https://www.linkedin.com/in/andrieli)  
-[Email](mailto:teuemail@email.com)
+[LinkedIn](https://www.linkedin.com/in/andrieli-bert%C3%A9-6b9934179/)  
+[Email](mailto:andrieli234berte@gmail.com)
