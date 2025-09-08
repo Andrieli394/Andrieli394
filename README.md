@@ -17,9 +17,9 @@
 ---
 
 ## 📌 Projetos Destacados
-- [Automação Cypress - Loja Virtual](link-do-repo)  
-- [Testes de API - Postman](link-do-repo)  
-- [Documentação de Casos de Teste](link-do-repo)  
+- [Automação Cypress](Andrieli394/Cypress)  
+- [Testes de API - Postman](Andrieli394/API)  
+- [Documentação de Casos de Teste](Andrieli394/Casos-de-testes)  
 
 ---
 
