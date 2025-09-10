@@ -1,4 +1,4 @@
-# Olá, eu sou a Andrieli 👋
+# Olá, prazer eu sou a Andri 🌸
 
 🎯 Analista de Qualidade de Software com experiência em **testes manuais e automatizados**  
 💻 Conhecimento em **Cypress, QA, Jira, Confluence e metodologias ágeis**  
