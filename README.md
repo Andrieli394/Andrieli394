@@ -17,10 +17,12 @@
 ---
 
 ## 📌 Projetos Destacados
+- [Testes Manuais](https://github.com/Andrieli394/ManualTestes/blob/main/README.md)
 - [Do zero ao QA](https://github.com/Andrieli394/RoteiroQA)
 - [Automação Cypress](https://github.com/Andrieli394/Cypress)  
 - [Testes de API - Postman](https://github.com/Andrieli394/API)  
-- [Documentação de Casos de Teste](https://github.com/Andrieli394/Casos-de-testes)  
+- [Documentação de Casos de Teste](https://github.com/Andrieli394/Casos-de-testes)
+
 
 ---
 
